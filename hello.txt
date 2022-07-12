@@ -8,3 +8,4 @@ Cus Git! Pull
 Cus Git! Clone
 Cus Git! SSH
 Cus Git! SSH "好用!!!"
+Cus Github "更新"
